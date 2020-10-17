@@ -1,4 +1,4 @@
-# Send-Mail-using-Python
+Python Automation
 
 Simple Mail Transfer Protocol (SMTP) is a protocol, which handles sending e-mail and routing e-mail between mail servers.
 
